@@ -1,0 +1,18 @@
+## ginkgo-user 10 QKQ1.200114.002 V12.0.5.0.QCOMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: trinket
+- Codename: ginkgo
+- Brand: xiaomi
+- Flavor: ginkgo-user
+- Release Version: 10
+- Id: QKQ1.200114.002
+- Incremental: V12.0.5.0.QCOMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 440
+- Fingerprint: xiaomi/ginkgo/ginkgo:10/QKQ1.200114.002/V12.0.5.0.QCOMIXM:user/release-keys
+- OTA version: 
+- Branch: ginkgo-user-10-QKQ1.200114.002-V12.0.5.0.QCOMIXM-release-keys-random-text-288711363918982
+- Repo: xiaomi_ginkgo_dump
