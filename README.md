@@ -1,0 +1,18 @@
+## arrow_ginkgo-userdebug 11 RQ3A.211001.001 eng.jmpfbm.20221217.204352 release-keys
+- Manufacturer: xiaomi
+- Platform: trinket
+- Codename: ginkgo
+- Brand: Xiaomi
+- Flavor: arrow_ginkgo-userdebug
+- Release Version: 11
+- Id: RQ3A.211001.001
+- Incremental: eng.jmpfbm.20221217.204352
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Xiaomi/arrow_ginkgo/ginkgo:11/RQ3A.211001.001/jmpfbmx12172042:userdebug/release-keys
+- OTA version: 
+- Branch: arrow_ginkgo-userdebug-11-RQ3A.211001.001-eng.jmpfbm.20221217.204352-release-keys-random-text-240064511549
+- Repo: xiaomi_ginkgo_dump
